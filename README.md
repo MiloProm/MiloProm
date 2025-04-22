@@ -25,8 +25,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiloProm/snk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiloProm/snk/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MiloProm/snk/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiloProm/snk/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiloProm/snk/main/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MiloProm/snk/main/github-snake.svg" />
 </picture>
+
 
